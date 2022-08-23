@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-Built using React. 
+Built using React. Check out this app on Heroku: [Pomodoro Timer by Kireshanth](https://pomodoro-by-kireshanth.herokuapp.com/)
 
 Users can set work session and break duration ranging from 1-60 mins by clicking on the arrow buttons.
 
